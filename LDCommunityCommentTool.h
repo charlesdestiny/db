@@ -2,7 +2,7 @@
 //  LDCommunityCommentTool.h
 //  ZXLoveDiary
 //
-//  Created by 仇呈燕 on 15/11/4.
+//  Created by  on 15/11/4.
 //  Copyright © 2015年 zx. All rights reserved.
 //
 
